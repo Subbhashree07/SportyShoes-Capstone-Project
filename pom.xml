@@ -47,10 +47,10 @@
     <version>1.7.36</version>
 </dependency>
 
-  	<dependency>
+  	<!--<dependency>
   		<groupId>com.simplilearn</groupId>
   		<artifactId>Demo1RESTASSURED</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  	</dependency>-->
   </dependencies>
 </project>
